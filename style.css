@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+}
+header nav > ul {
+  display: flex;
+  flex-direction: row;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */

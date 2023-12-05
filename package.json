@@ -1,6 +1,6 @@
 {
-  "name": "vite-project",
-  "private": true,
+  "name": "Portfolio",
+  "description": "Portfolio Website",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,5 +10,7 @@
   },
   "devDependencies": {
     "vite": "^4.4.5"
-  }
+  },
+  "author": "Mattis Zheng",
+  "license": "MIT"
 }
